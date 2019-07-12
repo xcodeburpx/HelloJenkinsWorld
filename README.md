@@ -1,0 +1,1 @@
+Hello form JENKINS - Pulling mechanism
